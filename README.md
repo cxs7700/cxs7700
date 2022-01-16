@@ -1,7 +1,9 @@
+# Hi there 👋
+
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=cxs7700&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Hi there 👋
+### 📚 I've been reading a lot...
+<a href="https://app.daily.dev/chris6to4"><img src="https://github.com/cxs7700/cxs7700/blob/main/devcard.svg" width="400" alt="Chris's Dev Card"/></a>
 
 <!--
 **cxs7700/cxs7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
