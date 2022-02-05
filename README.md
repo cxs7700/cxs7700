@@ -5,14 +5,14 @@
 ### 📚 I've been reading a lot...
 
 <table>
-  <tr>
-    <td valign="center">
-      🎓 I am currently a **Software Engineering Recent Graduate**.
-      🔭 I am currently working on a **SPX Gamma Exposure Model**.
-    <td >
-    <a href="https://app.daily.dev/chris6to4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/cxs7700/cxs7700/blob/main/devcard.svg" width="300" alt="Chris's Dev Card"/></a>
-    </td>
-  </tr>
+<tr>
+  <td valign="center">
+    <div>🎓  I am currently a <b>Software Engineering Recent Graduate</b></div>
+    <div>🔭  I am currently working on a <b>SPX Gamma Exposure Model</b></div>
+  <td>
+  <a href="https://app.daily.dev/chris6to4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/cxs7700/cxs7700/blob/main/devcard.svg" width="300" alt="Chris's Dev Card"/></a>
+  </td>
+</tr>
 </table>
 
 <!--
