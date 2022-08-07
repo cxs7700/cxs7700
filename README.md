@@ -7,8 +7,7 @@
 <table>
 <tr>
   <td valign="center">
-    <div>🎓  I am currently a <b>Software Engineering Recent Graduate</b></div>
-    <div>🔭  I am currently working on a <b>SPX Gamma Exposure Model</b></div>
+    <div>🔭  Currently a Software Development Engineer <b>@GoDaddy</b></div>
   <td>
   <a href="https://app.daily.dev/chris6to4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/cxs7700/cxs7700/blob/main/devcard.svg" width="300" alt="Chris's Dev Card"/></a>
   </td>
