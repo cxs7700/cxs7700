@@ -7,7 +7,7 @@
 <table>
 <tr>
   <td valign="center">
-    <div>🔭  Currently a Software Development Engineer <b>@GoDaddy</b></div>
+    <div>🔭  Software Development Engineer II <b>@GoDaddy</b></div>
   <td>
   <a href="https://app.daily.dev/chris6to4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/cxs7700/cxs7700/blob/main/devcard.svg" width="300" alt="Chris's Dev Card"/></a>
   </td>
