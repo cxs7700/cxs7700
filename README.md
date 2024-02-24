@@ -1,15 +1,15 @@
-# About Me 🤔
+# About Me 
+
+### 🔭  Software Development Engineer II @ GoDaddy
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=cxs7700&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📚 So I've been reading a lot...
-
 <table>
 <tr>
-  <td valign="center">
-    <div>🔭  Software Development Engineer II <b>@GoDaddy</b></div>
-  <td>
-  <a href="https://app.daily.dev/chris6to4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/cxs7700/cxs7700/blob/main/devcard.svg" width="300" alt="Chris's Dev Card"/></a>
+  <tc valign="center">
+    <div>📚 I've been reading a lot...</div>
+  <tc>
+  <a href="https://app.daily.dev/chris6to4"><img src="https://api.daily.dev/devcards/v2/BiY1kl5wjb5xmISQLTtPt.png?type=wide&r=un6" width="652" alt="Chris's Dev Card"/></a>
   </td>
 </tr>
 </table>
